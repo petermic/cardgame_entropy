@@ -1,4 +1,4 @@
-#include "war.h"
+#include "go_fish.h"
 #include "entropy.h"
 #include <iostream>
 
@@ -6,7 +6,7 @@ int main(){
 	EntropyProcessor e_init;
 	EntropyProcessor e_final;
 	for(int i=0;i<1000;i++){
-		War s;
+		GoFish s;
 		s.initialize();
 		s.run();
 		s.end();

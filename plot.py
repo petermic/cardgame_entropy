@@ -3,7 +3,7 @@ import csv
 
 pmap = []
 
-with open('war_init.csv') as csvfile:
+with open('war_final.csv') as csvfile:
     rdr = csv.reader(csvfile,delimiter=',')
     for row in rdr:
         prow = []

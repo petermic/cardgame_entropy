@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <chrono>
 #include <random>
+#include <iostream>
 
 Pile::Pile(){
 }
