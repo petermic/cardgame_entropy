@@ -1,12 +1,13 @@
-#include "go_fish.h"
+#include "ers.h"
 #include "entropy.h"
 #include <iostream>
 
 int main(){
 	EntropyProcessor e_init;
 	EntropyProcessor e_final;
-	for(int i=0;i<1000;i++){
-		GoFish s;
+	for(int i=0;i<10000;i++){
+		ERS s;
+		s.debug = false;
 		s.initialize();
 		s.run();
 		s.end();

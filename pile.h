@@ -5,11 +5,13 @@
 
 #include <vector>
 #include <deque>
+#include <string>
 
 class Pile{
 public:
 	Pile();
 	Pile(std::vector<Card>);
+	std::string name;
 	std::deque<Card> cards;
 	size_t size();
 	void shuffle();

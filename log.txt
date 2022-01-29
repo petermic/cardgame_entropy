@@ -1,0 +1,1927 @@
+P1 pile:
+8 of Clubs
+Jack of Spades
+King of Diamonds
+6 of Hearts
+8 of Diamonds
+Jack of Diamonds
+Jack of Hearts
+6 of Diamonds
+Ace of Diamonds
+9 of Clubs
+6 of Clubs
+8 of Hearts
+King of Spades
+5 of Diamonds
+5 of Spades
+5 of Hearts
+Jack of Clubs
+2 of Diamonds
+Queen of Diamonds
+9 of Hearts
+7 of Diamonds
+7 of Hearts
+3 of Clubs
+5 of Clubs
+4 of Diamonds
+9 of Diamonds
+P2 pile:
+3 of Hearts
+Queen of Clubs
+6 of Spades
+10 of Diamonds
+Queen of Hearts
+2 of Clubs
+3 of Spades
+8 of Spades
+3 of Diamonds
+Ace of Hearts
+10 of Clubs
+7 of Spades
+10 of Hearts
+2 of Hearts
+7 of Clubs
+4 of Clubs
+Ace of Clubs
+4 of Spades
+Ace of Spades
+9 of Spades
+4 of Hearts
+Queen of Spades
+King of Clubs
+10 of Spades
+2 of Spades
+King of Hearts
+
+P1 size: 26
+P2 size: 26
+pot size: 0
+
+P1 turn
+8 of Clubs
+
+P1 size: 25
+P2 size: 26
+pot size: 1
+
+P2 turn
+3 of Hearts
+
+P1 size: 25
+P2 size: 25
+pot size: 2
+
+P1 turn
+Jack of Spades
+P2 tries:
+Queen of Clubs
+pass to P1
+P1 tries:
+King of Diamonds
+pass to P2
+P2 tries:
+6 of Spades
+P2 tries:
+10 of Diamonds
+P2 tries:
+Queen of Hearts
+pass to P1
+P1 tries:
+6 of Hearts
+P1 tries:
+8 of Diamonds
+P2 won
+
+P1 size: 21
+P2 size: 31
+pot size: 0
+
+P2 turn
+2 of Clubs
+
+P1 size: 21
+P2 size: 30
+pot size: 1
+
+P1 turn
+Jack of Diamonds
+P2 tries:
+3 of Spades
+P1 won
+
+P1 size: 23
+P2 size: 29
+pot size: 0
+
+P1 turn
+Jack of Hearts
+P2 tries:
+8 of Spades
+P1 won
+
+P1 size: 24
+P2 size: 28
+pot size: 0
+
+P1 turn
+6 of Diamonds
+
+P1 size: 23
+P2 size: 28
+pot size: 1
+
+P2 turn
+3 of Diamonds
+
+P1 size: 23
+P2 size: 27
+pot size: 2
+
+P1 turn
+Ace of Diamonds
+P2 tries:
+Ace of Hearts
+SLAP
+P1 wins
+
+P1 size: 26
+P2 size: 26
+pot size: 0
+
+P2 turn
+10 of Clubs
+
+P1 size: 26
+P2 size: 25
+pot size: 1
+
+P1 turn
+9 of Clubs
+
+P1 size: 25
+P2 size: 25
+pot size: 2
+
+P2 turn
+7 of Spades
+
+P1 size: 25
+P2 size: 24
+pot size: 3
+
+P1 turn
+6 of Clubs
+
+P1 size: 24
+P2 size: 24
+pot size: 4
+
+P2 turn
+10 of Hearts
+
+P1 size: 24
+P2 size: 23
+pot size: 5
+
+P1 turn
+8 of Hearts
+
+P1 size: 23
+P2 size: 23
+pot size: 6
+
+P2 turn
+2 of Hearts
+
+P1 size: 23
+P2 size: 22
+pot size: 7
+
+P1 turn
+King of Spades
+P2 tries:
+7 of Clubs
+P2 tries:
+4 of Clubs
+P2 tries:
+Ace of Clubs
+pass to P1
+P1 tries:
+5 of Diamonds
+P1 tries:
+5 of Spades
+SLAP
+P1 wins
+
+P1 size: 33
+P2 size: 19
+pot size: 0
+
+P2 turn
+4 of Spades
+
+P1 size: 33
+P2 size: 18
+pot size: 1
+
+P1 turn
+5 of Hearts
+
+P1 size: 32
+P2 size: 18
+pot size: 2
+
+P2 turn
+Ace of Spades
+P1 tries:
+Jack of Clubs
+pass to P2
+P2 tries:
+9 of Spades
+P1 won
+
+P1 size: 36
+P2 size: 16
+pot size: 0
+
+P1 turn
+2 of Diamonds
+
+P1 size: 35
+P2 size: 16
+pot size: 1
+
+P2 turn
+4 of Hearts
+
+P1 size: 35
+P2 size: 15
+pot size: 2
+
+P1 turn
+Queen of Diamonds
+P2 tries:
+Queen of Spades
+SLAP
+P2 wins
+
+P1 size: 34
+P2 size: 18
+pot size: 0
+
+P1 turn
+9 of Hearts
+
+P1 size: 33
+P2 size: 18
+pot size: 1
+
+P2 turn
+King of Clubs
+P1 tries:
+7 of Diamonds
+P1 tries:
+7 of Hearts
+SLAP
+P1 wins
+
+P1 size: 35
+P2 size: 17
+pot size: 0
+
+P2 turn
+10 of Spades
+
+P1 size: 35
+P2 size: 16
+pot size: 1
+
+P1 turn
+3 of Clubs
+
+P1 size: 34
+P2 size: 16
+pot size: 2
+
+P2 turn
+2 of Spades
+
+P1 size: 34
+P2 size: 15
+pot size: 3
+
+P1 turn
+5 of Clubs
+
+P1 size: 33
+P2 size: 15
+pot size: 4
+
+P2 turn
+King of Hearts
+P1 tries:
+4 of Diamonds
+P1 tries:
+9 of Diamonds
+P1 tries:
+3 of Spades
+P2 won
+
+P1 size: 30
+P2 size: 22
+pot size: 0
+
+P2 turn
+8 of Diamonds
+
+P1 size: 30
+P2 size: 21
+pot size: 1
+
+P1 turn
+Jack of Diamonds
+P2 tries:
+6 of Hearts
+P1 won
+
+P1 size: 32
+P2 size: 20
+pot size: 0
+
+P1 turn
+2 of Clubs
+
+P1 size: 31
+P2 size: 20
+pot size: 1
+
+P2 turn
+Queen of Hearts
+P1 tries:
+8 of Spades
+P1 tries:
+Jack of Hearts
+pass to P2
+P2 tries:
+10 of Diamonds
+P1 won
+
+P1 size: 34
+P2 size: 18
+pot size: 0
+
+P1 turn
+Ace of Hearts
+P2 tries:
+6 of Spades
+P2 tries:
+King of Diamonds
+pass to P1
+P1 tries:
+Ace of Diamonds
+pass to P2
+P2 tries:
+Queen of Clubs
+pass to P1
+P1 tries:
+3 of Diamonds
+P1 tries:
+6 of Diamonds
+P2 won
+
+P1 size: 30
+P2 size: 22
+pot size: 0
+
+P2 turn
+Jack of Spades
+P1 tries:
+5 of Spades
+P2 won
+
+P1 size: 29
+P2 size: 23
+pot size: 0
+
+P2 turn
+3 of Hearts
+
+P1 size: 29
+P2 size: 22
+pot size: 1
+
+P1 turn
+5 of Diamonds
+
+P1 size: 28
+P2 size: 22
+pot size: 2
+
+P2 turn
+8 of Clubs
+
+P1 size: 28
+P2 size: 21
+pot size: 3
+
+P1 turn
+Ace of Clubs
+P2 tries:
+Queen of Spades
+pass to P1
+P1 tries:
+4 of Clubs
+P1 tries:
+7 of Clubs
+P2 won
+
+P1 size: 25
+P2 size: 27
+pot size: 0
+
+P2 turn
+Queen of Diamonds
+P1 tries:
+King of Spades
+pass to P2
+P2 tries:
+4 of Hearts
+P2 tries:
+2 of Diamonds
+P2 tries:
+3 of Spades
+P1 won
+
+P1 size: 29
+P2 size: 23
+pot size: 0
+
+P1 turn
+2 of Hearts
+
+P1 size: 28
+P2 size: 23
+pot size: 1
+
+P2 turn
+9 of Diamonds
+
+P1 size: 28
+P2 size: 22
+pot size: 2
+
+P1 turn
+8 of Hearts
+
+P1 size: 27
+P2 size: 22
+pot size: 3
+
+P2 turn
+4 of Diamonds
+
+P1 size: 27
+P2 size: 21
+pot size: 4
+
+P1 turn
+10 of Hearts
+
+P1 size: 26
+P2 size: 21
+pot size: 5
+
+P2 turn
+King of Hearts
+P1 tries:
+6 of Clubs
+P1 tries:
+7 of Spades
+P1 tries:
+9 of Clubs
+P2 won
+
+P1 size: 23
+P2 size: 29
+pot size: 0
+
+P2 turn
+5 of Clubs
+
+P1 size: 23
+P2 size: 28
+pot size: 1
+
+P1 turn
+10 of Clubs
+
+P1 size: 22
+P2 size: 28
+pot size: 2
+
+P2 turn
+2 of Spades
+
+P1 size: 22
+P2 size: 27
+pot size: 3
+
+P1 turn
+9 of Spades
+
+P1 size: 21
+P2 size: 27
+pot size: 4
+
+P2 turn
+3 of Clubs
+
+P1 size: 21
+P2 size: 26
+pot size: 5
+
+P1 turn
+Jack of Clubs
+P2 tries:
+10 of Spades
+P1 won
+
+P1 size: 27
+P2 size: 25
+pot size: 0
+
+P1 turn
+Ace of Spades
+P2 tries:
+6 of Diamonds
+P2 tries:
+3 of Diamonds
+P2 tries:
+Queen of Clubs
+pass to P1
+P1 tries:
+5 of Hearts
+P1 tries:
+4 of Spades
+P2 won
+
+P1 size: 24
+P2 size: 28
+pot size: 0
+
+P2 turn
+Ace of Diamonds
+P1 tries:
+7 of Hearts
+P1 tries:
+7 of Diamonds
+SLAP
+P2 wins
+
+P1 size: 22
+P2 size: 30
+pot size: 0
+
+P1 turn
+King of Clubs
+P2 tries:
+King of Diamonds
+SLAP
+P1 wins
+
+P1 size: 23
+P2 size: 29
+pot size: 0
+
+P2 turn
+6 of Spades
+
+P1 size: 23
+P2 size: 28
+pot size: 1
+
+P1 turn
+9 of Hearts
+
+P1 size: 22
+P2 size: 28
+pot size: 2
+
+P2 turn
+Ace of Hearts
+P1 tries:
+6 of Hearts
+P1 tries:
+Jack of Diamonds
+pass to P2
+P2 tries:
+5 of Spades
+P1 won
+
+P1 size: 26
+P2 size: 26
+pot size: 0
+
+P1 turn
+8 of Diamonds
+
+P1 size: 25
+P2 size: 26
+pot size: 1
+
+P2 turn
+Jack of Spades
+P1 tries:
+10 of Diamonds
+P2 won
+
+P1 size: 24
+P2 size: 28
+pot size: 0
+
+P2 turn
+7 of Clubs
+
+P1 size: 24
+P2 size: 27
+pot size: 1
+
+P1 turn
+Jack of Hearts
+P2 tries:
+4 of Clubs
+P1 won
+
+P1 size: 26
+P2 size: 26
+pot size: 0
+
+P1 turn
+8 of Spades
+
+P1 size: 25
+P2 size: 26
+pot size: 1
+
+P2 turn
+Queen of Spades
+P1 tries:
+Queen of Hearts
+SLAP
+P1 wins
+
+P1 size: 27
+P2 size: 25
+pot size: 0
+
+P2 turn
+Ace of Clubs
+P1 tries:
+2 of Clubs
+P1 tries:
+3 of Spades
+P1 tries:
+2 of Diamonds
+SLAP
+P2 wins
+
+P1 size: 24
+P2 size: 28
+pot size: 0
+
+P1 turn
+4 of Hearts
+
+P1 size: 23
+P2 size: 28
+pot size: 1
+
+P2 turn
+8 of Clubs
+
+P1 size: 23
+P2 size: 27
+pot size: 2
+
+P1 turn
+King of Spades
+P2 tries:
+5 of Diamonds
+P2 tries:
+3 of Hearts
+P2 tries:
+9 of Clubs
+P1 won
+
+P1 size: 28
+P2 size: 24
+pot size: 0
+
+P1 turn
+Queen of Diamonds
+P2 tries:
+7 of Spades
+P2 tries:
+6 of Clubs
+P1 won
+
+P1 size: 30
+P2 size: 22
+pot size: 0
+
+P1 turn
+10 of Spades
+
+P1 size: 29
+P2 size: 22
+pot size: 1
+
+P2 turn
+King of Hearts
+P1 tries:
+Jack of Clubs
+pass to P2
+P2 tries:
+10 of Hearts
+P1 won
+
+P1 size: 32
+P2 size: 20
+pot size: 0
+
+P1 turn
+3 of Clubs
+
+P1 size: 31
+P2 size: 20
+pot size: 1
+
+P2 turn
+4 of Diamonds
+
+P1 size: 31
+P2 size: 19
+pot size: 2
+
+P1 turn
+9 of Spades
+
+P1 size: 30
+P2 size: 19
+pot size: 3
+
+P2 turn
+8 of Hearts
+
+P1 size: 30
+P2 size: 18
+pot size: 4
+
+P1 turn
+2 of Spades
+
+P1 size: 29
+P2 size: 18
+pot size: 5
+
+P2 turn
+9 of Diamonds
+
+P1 size: 29
+P2 size: 17
+pot size: 6
+
+P1 turn
+10 of Clubs
+
+P1 size: 28
+P2 size: 17
+pot size: 7
+
+P2 turn
+2 of Hearts
+
+P1 size: 28
+P2 size: 16
+pot size: 8
+
+P1 turn
+5 of Clubs
+
+P1 size: 27
+P2 size: 16
+pot size: 9
+
+P2 turn
+4 of Spades
+
+P1 size: 27
+P2 size: 15
+pot size: 10
+
+P1 turn
+King of Diamonds
+P2 tries:
+5 of Hearts
+P2 tries:
+Queen of Clubs
+pass to P1
+P1 tries:
+King of Clubs
+pass to P2
+P2 tries:
+3 of Diamonds
+P2 tries:
+6 of Diamonds
+P2 tries:
+Ace of Spades
+pass to P1
+P1 tries:
+5 of Spades
+P1 tries:
+Jack of Diamonds
+pass to P2
+P2 tries:
+7 of Diamonds
+P1 won
+
+P1 size: 43
+P2 size: 9
+pot size: 0
+
+P1 turn
+6 of Hearts
+
+P1 size: 42
+P2 size: 9
+pot size: 1
+
+P2 turn
+7 of Hearts
+
+P1 size: 42
+P2 size: 8
+pot size: 2
+
+P1 turn
+Ace of Hearts
+P2 tries:
+Ace of Diamonds
+SLAP
+P2 wins
+
+P1 size: 41
+P2 size: 11
+pot size: 0
+
+P1 turn
+9 of Hearts
+
+P1 size: 40
+P2 size: 11
+pot size: 1
+
+P2 turn
+10 of Diamonds
+
+P1 size: 40
+P2 size: 10
+pot size: 2
+
+P1 turn
+6 of Spades
+
+P1 size: 39
+P2 size: 10
+pot size: 3
+
+P2 turn
+Jack of Spades
+P1 tries:
+4 of Clubs
+P2 won
+
+P1 size: 38
+P2 size: 14
+pot size: 0
+
+P2 turn
+8 of Diamonds
+
+P1 size: 38
+P2 size: 13
+pot size: 1
+
+P1 turn
+Jack of Hearts
+P2 tries:
+2 of Diamonds
+P1 won
+
+P1 size: 40
+P2 size: 12
+pot size: 0
+
+P1 turn
+7 of Clubs
+
+P1 size: 39
+P2 size: 12
+pot size: 1
+
+P2 turn
+3 of Spades
+
+P1 size: 39
+P2 size: 11
+pot size: 2
+
+P1 turn
+Queen of Hearts
+P2 tries:
+2 of Clubs
+P2 tries:
+Ace of Clubs
+pass to P1
+P1 tries:
+Queen of Spades
+pass to P2
+P2 tries:
+Ace of Diamonds
+SLAP
+P2 wins
+
+P1 size: 37
+P2 size: 15
+pot size: 0
+
+P1 turn
+8 of Spades
+
+P1 size: 36
+P2 size: 15
+pot size: 1
+
+P2 turn
+Ace of Hearts
+P1 tries:
+9 of Clubs
+P1 tries:
+3 of Hearts
+P1 tries:
+5 of Diamonds
+P1 tries:
+King of Spades
+pass to P2
+P2 tries:
+7 of Hearts
+P2 tries:
+6 of Hearts
+P2 tries:
+4 of Clubs
+P1 won
+
+P1 size: 41
+P2 size: 11
+pot size: 0
+
+P1 turn
+8 of Clubs
+
+P1 size: 40
+P2 size: 11
+pot size: 1
+
+P2 turn
+Jack of Spades
+P1 tries:
+4 of Hearts
+P2 won
+
+P1 size: 39
+P2 size: 13
+pot size: 0
+
+P2 turn
+6 of Spades
+
+P1 size: 39
+P2 size: 12
+pot size: 1
+
+P1 turn
+6 of Clubs
+SLAP
+P1 wins
+P1 size: 40
+P2 size: 12
+pot size: 0
+
+P2 turn
+10 of Diamonds
+
+P1 size: 40
+P2 size: 11
+pot size: 1
+
+P1 turn
+7 of Spades
+
+P1 size: 39
+P2 size: 11
+pot size: 2
+
+P2 turn
+9 of Hearts
+
+P1 size: 39
+P2 size: 10
+pot size: 3
+
+P1 turn
+Queen of Diamonds
+P2 tries:
+Ace of Diamonds
+pass to P1
+P1 tries:
+10 of Hearts
+P1 tries:
+Jack of Clubs
+pass to P2
+P2 tries:
+Queen of Spades
+pass to P1
+P1 tries:
+King of Hearts
+pass to P2
+P2 tries:
+Ace of Clubs
+pass to P1
+P1 tries:
+10 of Spades
+P1 tries:
+7 of Diamonds
+P1 tries:
+Jack of Diamonds
+pass to P2
+P2 tries:
+2 of Clubs
+P1 won
+
+P1 size: 46
+P2 size: 6
+pot size: 0
+
+P1 turn
+5 of Spades
+
+P1 size: 45
+P2 size: 6
+pot size: 1
+
+P2 turn
+Queen of Hearts
+P1 tries:
+Ace of Spades
+pass to P2
+P2 tries:
+3 of Spades
+P2 tries:
+7 of Clubs
+P2 tries:
+4 of Hearts
+P2 tries:
+Jack of Spades
+pass to P1
+P1 tries:
+6 of Diamonds
+P2 won
+
+P1 size: 43
+P2 size: 9
+pot size: 0
+
+P2 turn
+8 of Clubs
+
+P1 size: 43
+P2 size: 8
+pot size: 1
+
+P1 turn
+3 of Diamonds
+
+P1 size: 42
+P2 size: 8
+pot size: 2
+
+P2 turn
+6 of Diamonds
+
+P1 size: 42
+P2 size: 7
+pot size: 3
+
+P1 turn
+King of Clubs
+P2 tries:
+Jack of Spades
+pass to P1
+P1 tries:
+Queen of Clubs
+pass to P2
+P2 tries:
+4 of Hearts
+P2 tries:
+7 of Clubs
+P1 won
+
+P1 size: 48
+P2 size: 4
+pot size: 0
+
+P1 turn
+5 of Hearts
+
+P1 size: 47
+P2 size: 4
+pot size: 1
+
+P2 turn
+3 of Spades
+
+P1 size: 47
+P2 size: 3
+pot size: 2
+
+P1 turn
+King of Diamonds
+P2 tries:
+Ace of Spades
+pass to P1
+P1 tries:
+4 of Spades
+P1 tries:
+5 of Clubs
+P1 tries:
+2 of Hearts
+P1 tries:
+10 of Clubs
+P2won
+
+P1 size: 42
+P2 size: 10
+pot size: 0
+
+P2 turn
+Queen of Hearts
+P1 tries:
+9 of Diamonds
+P1 tries:
+2 of Spades
+P2 won
+
+P1 size: 40
+P2 size: 12
+pot size: 0
+
+P2 turn
+5 of Spades
+
+P1 size: 40
+P2 size: 11
+pot size: 1
+
+P1 turn
+8 of Hearts
+
+P1 size: 39
+P2 size: 11
+pot size: 2
+
+P2 turn
+10 of Clubs
+
+P1 size: 39
+P2 size: 10
+pot size: 3
+
+P1 turn
+9 of Spades
+
+P1 size: 38
+P2 size: 10
+pot size: 4
+
+P2 turn
+2 of Hearts
+
+P1 size: 38
+P2 size: 9
+pot size: 5
+
+P1 turn
+4 of Diamonds
+
+P1 size: 37
+P2 size: 9
+pot size: 6
+
+P2 turn
+5 of Clubs
+
+P1 size: 37
+P2 size: 8
+pot size: 7
+
+P1 turn
+3 of Clubs
+
+P1 size: 36
+P2 size: 8
+pot size: 8
+
+P2 turn
+4 of Spades
+
+P1 size: 36
+P2 size: 7
+pot size: 9
+
+P1 turn
+2 of Diamonds
+
+P1 size: 35
+P2 size: 7
+pot size: 10
+
+P2 turn
+Ace of Spades
+P1 tries:
+Jack of Hearts
+pass to P2
+P2 tries:
+King of Diamonds
+pass to P1
+P1 tries:
+8 of Diamonds
+P1 tries:
+4 of Clubs
+P1 tries:
+6 of Hearts
+P2 won
+
+P1 size: 31
+P2 size: 21
+pot size: 0
+
+P2 turn
+3 of Spades
+
+P1 size: 31
+P2 size: 20
+pot size: 1
+
+P1 turn
+7 of Hearts
+
+P1 size: 30
+P2 size: 20
+pot size: 2
+
+P2 turn
+5 of Hearts
+
+P1 size: 30
+P2 size: 19
+pot size: 3
+
+P1 turn
+King of Spades
+P2 tries:
+2 of Spades
+P2 tries:
+9 of Diamonds
+P2 tries:
+Queen of Hearts
+pass to P1
+P1 tries:
+5 of Diamonds
+P1 tries:
+3 of Hearts
+P2 won
+
+P1 size: 27
+P2 size: 25
+pot size: 0
+
+P2 turn
+6 of Hearts
+
+P1 size: 27
+P2 size: 24
+pot size: 1
+
+P1 turn
+9 of Clubs
+
+P1 size: 26
+P2 size: 24
+pot size: 2
+
+P2 turn
+4 of Clubs
+
+P1 size: 26
+P2 size: 23
+pot size: 3
+
+P1 turn
+Ace of Hearts
+P2 tries:
+8 of Diamonds
+P2 tries:
+King of Diamonds
+pass to P1
+P1 tries:
+8 of Spades
+SLAP
+P2 wins
+
+P1 size: 24
+P2 size: 28
+pot size: 0
+
+P1 turn
+6 of Clubs
+
+P1 size: 23
+P2 size: 28
+pot size: 1
+
+P2 turn
+Jack of Hearts
+P1 tries:
+6 of Spades
+SLAP
+P2 wins
+
+P1 size: 22
+P2 size: 30
+pot size: 0
+
+P1 turn
+2 of Clubs
+
+P1 size: 21
+P2 size: 30
+pot size: 1
+
+P2 turn
+Ace of Spades
+P1 tries:
+Jack of Diamonds
+pass to P2
+P2 tries:
+2 of Diamonds
+P1 won
+
+P1 size: 24
+P2 size: 28
+pot size: 0
+
+P1 turn
+7 of Diamonds
+
+P1 size: 23
+P2 size: 28
+pot size: 1
+
+P2 turn
+4 of Spades
+
+P1 size: 23
+P2 size: 27
+pot size: 2
+
+P1 turn
+10 of Spades
+
+P1 size: 22
+P2 size: 27
+pot size: 3
+
+P2 turn
+3 of Clubs
+
+P1 size: 22
+P2 size: 26
+pot size: 4
+
+P1 turn
+Ace of Clubs
+P2 tries:
+5 of Clubs
+P2 tries:
+4 of Diamonds
+P2 tries:
+2 of Hearts
+P2 tries:
+9 of Spades
+P1won
+
+P1 size: 30
+P2 size: 22
+pot size: 0
+
+P1 turn
+King of Hearts
+P2 tries:
+10 of Clubs
+P2 tries:
+8 of Hearts
+P2 tries:
+5 of Spades
+P1 won
+
+P1 size: 33
+P2 size: 19
+pot size: 0
+
+P1 turn
+Queen of Spades
+P2 tries:
+3 of Hearts
+P2 tries:
+5 of Diamonds
+P1 won
+
+P1 size: 35
+P2 size: 17
+pot size: 0
+
+P1 turn
+Jack of Clubs
+P2 tries:
+Queen of Hearts
+pass to P1
+P1 tries:
+10 of Hearts
+P1 tries:
+Ace of Diamonds
+pass to P2
+P2 tries:
+9 of Diamonds
+P2 tries:
+2 of Spades
+P2 tries:
+King of Spades
+pass to P1
+P1 tries:
+Queen of Diamonds
+pass to P2
+P2 tries:
+5 of Hearts
+P2 tries:
+7 of Hearts
+P1 won
+
+P1 size: 41
+P2 size: 11
+pot size: 0
+
+P1 turn
+9 of Hearts
+
+P1 size: 40
+P2 size: 11
+pot size: 1
+
+P2 turn
+3 of Spades
+
+P1 size: 40
+P2 size: 10
+pot size: 2
+
+P1 turn
+7 of Spades
+
+P1 size: 39
+P2 size: 10
+pot size: 3
+
+P2 turn
+8 of Spades
+
+P1 size: 39
+P2 size: 9
+pot size: 4
+
+P1 turn
+10 of Diamonds
+
+P1 size: 38
+P2 size: 9
+pot size: 5
+
+P2 turn
+King of Diamonds
+P1 tries:
+7 of Clubs
+P1 tries:
+4 of Hearts
+P1 tries:
+Queen of Clubs
+pass to P2
+P2 tries:
+8 of Diamonds
+P2 tries:
+Ace of Hearts
+pass to P1
+P1 tries:
+Jack of Spades
+pass to P2
+P2 tries:
+4 of Clubs
+P1 won
+
+P1 size: 47
+P2 size: 5
+pot size: 0
+
+P1 turn
+King of Clubs
+P2 tries:
+9 of Clubs
+P2 tries:
+6 of Hearts
+P2 tries:
+6 of Spades
+SLAP
+P1 wins
+
+P1 size: 50
+P2 size: 2
+pot size: 0
+
+P2 turn
+Jack of Hearts
+P1 tries:
+6 of Diamonds
+P2 won
+
+P1 size: 49
+P2 size: 3
+pot size: 0
+
+P2 turn
+6 of Clubs
+
+P1 size: 49
+P2 size: 2
+pot size: 1
+
+P1 turn
+3 of Diamonds
+
+P1 size: 48
+P2 size: 2
+pot size: 2
+
+P2 turn
+6 of Diamonds
+SLAP
+P1 wins
+P1 size: 51
+P2 size: 1
+pot size: 0
+
+P2 turn
+Jack of Hearts
+P1 tries:
+8 of Clubs
+P2 won
+
+P1 size: 50
+P2 size: 2
+pot size: 0
+
+P2 turn
+8 of Clubs
+
+P1 size: 50
+P2 size: 1
+pot size: 1
+
+P1 turn
+2 of Diamonds
+
+P1 size: 49
+P2 size: 1
+pot size: 2
+
+P2 turn
+Jack of Hearts
+P1 tries:
+Jack of Diamonds
+SLAP
+P2 wins
+
+P1 size: 48
+P2 size: 4
+pot size: 0
+
+P1 turn
+Ace of Spades
+P2 tries:
+Jack of Diamonds
+pass to P1
+P1 tries:
+2 of Clubs
+P2 won
+
+P1 size: 46
+P2 size: 6
+pot size: 0
+
+P2 turn
+Jack of Hearts
+P1 tries:
+9 of Spades
+P2 won
+
+P1 size: 45
+P2 size: 7
+pot size: 0
+
+P2 turn
+2 of Diamonds
+
+P1 size: 45
+P2 size: 6
+pot size: 1
+
+P1 turn
+2 of Hearts
+SLAP
+P2 wins
+P1 size: 44
+P2 size: 8
+pot size: 0
+
+P1 turn
+4 of Diamonds
+
+P1 size: 43
+P2 size: 8
+pot size: 1
+
+P2 turn
+8 of Clubs
+
+P1 size: 43
+P2 size: 7
+pot size: 2
+
+P1 turn
+5 of Clubs
+
+P1 size: 42
+P2 size: 7
+pot size: 3
+
+P2 turn
+2 of Clubs
+
+P1 size: 42
+P2 size: 6
+pot size: 4
+
+P1 turn
+Ace of Clubs
+P2 tries:
+Jack of Diamonds
+pass to P1
+P1 tries:
+3 of Clubs
+P2 won
+
+P1 size: 40
+P2 size: 12
+pot size: 0
+
+P2 turn
+Ace of Spades
+P1 tries:
+10 of Spades
+P1 tries:
+4 of Spades
+P1 tries:
+7 of Diamonds
+P1 tries:
+5 of Spades
+P2won
+
+P1 size: 36
+P2 size: 16
+pot size: 0
+
+P2 turn
+9 of Spades
+
+P1 size: 36
+P2 size: 15
+pot size: 1
+
+P1 turn
+8 of Hearts
+
+P1 size: 35
+P2 size: 15
+pot size: 2
+
+P2 turn
+Jack of Hearts
+P1 tries:
+10 of Clubs
+P2 won
+
+P1 size: 34
+P2 size: 18
+pot size: 0
+
+P2 turn
+2 of Hearts
+
+P1 size: 34
+P2 size: 17
+pot size: 1
+
+P1 turn
+King of Hearts
+P2 tries:
+2 of Diamonds
+SLAP
+P1 wins
+
+P1 size: 36
+P2 size: 16
+pot size: 0
+
+P2 turn
+3 of Clubs
+
+P1 size: 36
+P2 size: 15
+pot size: 1
+
+P1 turn
+5 of Diamonds
+
+P1 size: 35
+P2 size: 15
+pot size: 2
+
+P2 turn
+Jack of Diamonds
+P1 tries:
+3 of Hearts
+P2 won
+
+P1 size: 34
+P2 size: 18
+pot size: 0
+
+P2 turn
+Ace of Clubs
+P1 tries:
+Queen of Spades
+pass to P2
+P2 tries:
+2 of Clubs
+P2 tries:
+5 of Clubs
+P1 won
+
+P1 size: 37
+P2 size: 15
+pot size: 0
+
+P1 turn
+7 of Hearts
+
+P1 size: 36
+P2 size: 15
+pot size: 1
+
+P2 turn
+8 of Clubs
+
+P1 size: 36
+P2 size: 14
+pot size: 2
+
+P1 turn
+5 of Hearts
+
+P1 size: 35
+P2 size: 14
+pot size: 3
+
+P2 turn
+4 of Diamonds
+
+P1 size: 35
+P2 size: 13
+pot size: 4
+
+P1 turn
+Queen of Diamonds
+P2 tries:
+5 of Spades
+P2 tries:
+7 of Diamonds
+P1 won
+
+P1 size: 41
+P2 size: 11
+pot size: 0
+
+P1 turn
+King of Spades
+P2 tries:
+4 of Spades
+P2 tries:
+10 of Spades
+P2 tries:
+Ace of Spades
+pass to P1
+P1 tries:
+2 of Spades
+P1 tries:
+9 of Diamonds
+P1 tries:
+Ace of Diamonds
+pass to P2
+P2 tries:
+10 of Clubs
+P2 tries:
+Jack of Hearts
+pass to P1
+P1 tries:
+10 of Hearts
+SLAP
+P1 wins
+
+P1 size: 46
+P2 size: 6
+pot size: 0
+
+P2 turn
+8 of Hearts
+
+P1 size: 46
+P2 size: 5
+pot size: 1
+
+P1 turn
+Queen of Hearts
+P2 tries:
+9 of Spades
+P2 tries:
+3 of Hearts
+P1 won
+
+P1 size: 49
+P2 size: 3
+pot size: 0
+
+P1 turn
+Jack of Clubs
+P2 tries:
+Jack of Diamonds
+SLAP
+P1 wins
+
+P1 size: 50
+P2 size: 2
+pot size: 0
+
+P2 turn
+5 of Diamonds
+
+P1 size: 50
+P2 size: 1
+pot size: 1
+
+P1 turn
+4 of Clubs
+
+P1 size: 49
+P2 size: 1
+pot size: 2
+
+P2 turn
+3 of Clubs
+
